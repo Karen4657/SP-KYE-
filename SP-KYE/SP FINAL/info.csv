@@ -1,0 +1,21 @@
+ID,Nombre,Duración,# Episodios,Género,Calificación promedio,# temporadas,Episodios
+1,Breaking Bad,47,62,Drama,9.5,5,Pilot;Cat's in the Bag;...;Felina
+2,Game of Thrones,57,73,Fantasia,9.3,8,Winter Is Coming;The Kingsroad;...;The Iron Throne
+3,Friends,22,236,Comedia,8.9,10,The One Where It All Began;...;The Last One
+4,The Office,22,201,Comedia,8.8,9,Pilot;Diversity Day;...;Finale
+5,The Mandalorian,40,16,Ciencia Ficcion,8.8,2,Chapter 1: The Mandalorian;...;Chapter 16: The Rescue
+6,Stranger Things,51,34,Ciencia Ficcion,8.7,4,Chapter One: The Vanishing of Will Byers;...;Chapter Eight: The Battle of Starcourt
+7,The Crown,50,40,Drama,8.6,4,Wolferton Splash;...;War
+8,The Big Bang Theory,22,279,Comedia,8.1,12,Pilot;...;The Stockholm Syndrome
+9,Black Mirror,60,22,Ciencia Ficcion,8.8,5,The National Anthem;...;Rachel, Jack and Ashley Too
+10,Sherlock,90,13,Crimen,9.1,4,A Study in Pink;...;The Final Problem
+11,The Dark Knight,152,null,Accion,9.0,null,null
+12,Inception,148,null,Ciencia Ficcion,8.8,null,null
+13,The Godfather,175,null,Crimen,9.2,null,null
+14,The Shawshank Redemption,142,null,Drama,9.3,null,null
+15,Pulp Fiction,154,null,Crimen,8.9,null,null
+16,The Matrix,136,null,Ciencia Ficcion,8.7,null,null
+17,Interstellar,169,null,Ciencia Ficcion,8.6,null,null
+18,The Lion King,88,null,Animacion,8.5,null,null
+19,Forrest Gump,142,null,Drama,8.8,null,null
+20,Fight Club,139,null,Drama,8.8,null,null
